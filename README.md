@@ -5,7 +5,7 @@ During this project we have implemented and compared different clustering algori
 An example of the clusters found with the k-means algorithm.
 
 <p align="center">
-  <img src="kmeans.png" style="width:70%;" title="Clusters">
+  <img src="kmeans.png" title="Clusters">
 </p>
 
 We have shown that using a sample of the data set can be really effective. CLARAFAST is clearly faster than the other methods and it still achieve the same cost in the objective function.
